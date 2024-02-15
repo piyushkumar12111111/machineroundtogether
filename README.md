@@ -32,27 +32,6 @@ Technologies
 
 
 
-Project Title: Paginated List with Add/Delete Functionality
-
-Apk Link 
-
-https://drive.google.com/drive/folders/1Acw_by3o2G19-4DBeMnvGYKNWHauDLI3?usp=sharing
-
-Description
-
-This Flutter project showcases core list management techniques, including pagination for efficient data loading, dynamic item addition, and deletion features. Optimize  understanding of how to craft interactive lists within Flutter applications.
-
-Features
-
-    Infinite Scrolling Pagination: Seamlessly fetch and display data in manageable chunks as the user scrolls through the list.
-    Add New Items: Intuitively append new items to the Cart list, maintaining data consistency.
-    Delete Items: Remove selected list items with a user-friendly action (Using delete button).
-    State Management: Employ a state management solution GetX  to effectively manage data updates and trigger UI rebuilds.
-    Clean and Maintainable Code: Adheres to best practices for organization and readability.
-
-
-    Flutter
-    Dart
 
 
 
